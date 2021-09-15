@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://dustin-orner.github.io/galga-project_2/](https://dustin-orner.github.io/galga-project_2/)
+> Open this page at [https://dustin-orner.github.io/Galga-Project_2/](https://dustin-orner.github.io/Galga-Project_2/)
 
 ## Use as Extension
 
